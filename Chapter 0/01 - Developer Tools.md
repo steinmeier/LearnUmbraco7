@@ -1,32 +1,36 @@
 #Developer Tools#
 
 ![9026576438_2b6993f317_o (1).jpg](assets/9026576438_2b6993f317_o.jpg)
->Photo by: Doug Robar
+>Foto: Doug Robar
 
-This book is about extending Umbraco and can be simple or it can be advanced for those who choose to do so.  Therefore depending on what you wish to accomplish, it may not require anything special.
+Denne bog handler om at udvide Umbraco. Den kan være simple, men den kan også være avanceret, skulle man vælge det.
+Derfor, afhængigt af hvad du ønsker at opnå, kræves der ikke noget særligt.
 
-##Required Tools##
-###A good text editor###
-If you are simply looking to add some custom data types to your build of Umbraco, you will only need your text editor of choice such as [Sublime](http://www.sublimetext.com/).
+##Nødvendige tools##
+##En god text editor###
+Hvis du blot skal tilføje et par custom data types til din Umbraco-løsning, kan du nøjes med din foretrukne text editor, som fx. [Sublime](http://www.sublimetext.com/).
 
-###Visual Studio Express or higher###
-If you plan on extending functionality of the backoffice that requires custom server side code, you will want to download and use Microsoft Visual Studio.  Fear not, the Express versions of VS are free to use and are very capable.  Please consult the appendix for [installing Visual Studio Express](/z-Appendix B - Installing Visual Studio Express/README.md).
+###Visual Studio Express eller højere###
+Hvis du har planer om at udbygge funktionaliteten i backoffice, som kræver custom-kode på serversiden, skal du bruge Microsoft Visual Studio. Frygt ikke; Express-udgaven af VS er gratis, og fuldt ud i stand til det meste.
+Læs mere i appendix’et om [installing Visual Studio Express](/z-Appendix B - Installing Visual Studio Express/README.md).
 
-Things requiring custom server side code:
-* Custom trees and sections
-* Integration with Umbraco content that is not offered via an Umbraco web service
-* Handling custom forms
-* Programmatically create/import content
-* Custom database queries
-* Capturing and modifying default behavior through event handling (like running code before or after a publish)
+Ting, der kræver custom-kode på serversiden:
+* Custom trees og sections
+* Integration med Umbraco content, som ikke udbydes via en Umbraco web service
+* Håndtering af custom forms
+* Programmatisk oprettelse/import af content
+* Custom database-kald
+* Opfange og redigere default-adfærd gennem event handling 
+(som fx. at køre kode før eller efter noget er publiseret)
 
-*Please check documentation and Google for what you are trying to accomplish.  There are many things Umbraco already provides.*
+*Tjek venligst dokumentationen og Google for det du forsøger at opnå. Der er mange ting Umbraco allerede understøtter.*
 
-##Optional Tools##
-For the uber nerds, you will probably want to get these tools:
+##Valgfrie Tools##
+Über-nørden, vil nok have gavn også af disse tools:
+* [ReSharper](https://www.jetbrains.com/resharper/) - ReSharper tager code hinting og completion et skridt videre.  
+*Ikke sikkert, den kan installeres på VS Express.*
+* [GitExtensions](https://code.google.com/p/gitextensions/) 
+	- En GUI der hjælper med almindelige Git-kommandoer.
+* [Fiddler](http://www.telerik.com/fiddler) - Et gratis tool til monitorering af HTTP transactions i real-time.
 
-* [ReSharper](https://www.jetbrains.com/resharper/) - ReSharper takes code hinting and completion to the next level.  *May not be installable on VS Express.*
-* [GitExtensions](https://code.google.com/p/gitextensions/) - A GUI that helps with common Git commands.
-* [Fiddler](http://www.telerik.com/fiddler) - A free tool to watch HTTP transactions happen in real-time.
-
-[<Back Overview](README.md)
+[<Tilbage Overview](README.md)

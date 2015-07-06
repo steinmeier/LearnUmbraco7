@@ -1,33 +1,38 @@
-#Authors#
-This book is crowd authored and all contributors have added a brief biography  below.
+#Forfattere#
+Denne bog er „crowd”-forfattet, og du kan finde en mini-biografi af alle bidragsyderene her under.
 
-Contributing to this book is as simple as sending a pull request to this repository.
+Du kan hjælpe med at bidrage til bogen, ved blot at sende en pull request til dette repository.
+
+*NOTE: Dette er en oversættelse fra den originale engelske udgave. Umbraco (og andet evt. software) indeholder mange termer og vendinger, der er engelske. Disse er bibeholdt på engelsk, da det vil være disse termener og vendinger der  alligevel vil optræde*
 
 ###Kevin Giszewski###
-Kevin Giszewski is from Indiana USA and has been developing Umbraco for about three years.  Kevin has developed web in earnest since 2000 covering both the LAMP and .NET stacks. 
+Kevin Giszewski er fra Indiana, USA, og har lavet Umbraco-udvikling i godt 3 år.
+Kevin har udviklet web siden 2000, hvor han har været inde over både LAMP og .net
 
-Kevin has an Associate of Computer Science degree from Purdue University, a software Bachelors from Western Governors University and is currently working towards an Information Assurance and Security Masters from Western Governors University.
+Kevin har en „Associate of Computer Science degree” fra Purdue Universitetet. Samt en Software Bachelor fra Western Governors Universitetet. Lige nu arbejder han frem mod en Informations-assurance- og Sikkerheds-Master, ligeledes fra Western Governors Universitetet.
 
-Kevin is employed as a Senior Web Developer by the University of Notre Dame Mendoza College of Business located in South Bend, IN.
+Keving er ansat som Senior Web-udvikler hos University of Notre Dame Mendoza College of Business, der ligger i South Bend, Indiana, USA.
 
-You can follow Kevin on Twitter at: http://twitter.com/kevingiszewski
+Du kan følge Kevin på Twitter her: http://twitter.com/kevingiszewski
+
 
 ###Mark Kimmet###
-University of Notre Dame, South Bend, IN
+University of Notre Dame, South Bend, Indiana, USA
 https://twitter.com/mkimmet
 
 ###Alex Lindgren###
-Alex Lindgren is the Director of Technology at [Flightpath](http://www.flightpath.com/) in New York City and is cofounder of the New York Umbraco Meetup.
+Alex Lindgren er teknologi-direktør hos [Flightpath](http://www.flightpath.com/) i New York City, og medstifter af The New York Umbraco Meetup.
 
-You can follow him on Twitter at https://twitter.com/alexlindgren and his blog at http://www.alexlindgren.com/
+Du kan følge ham på twitter her: https://twitter.com/alexlindgren og på hans blog: http://www.alexlindgren.com/
 
-##Photos##
-All of the photography in this book is copyrighted and provided as a courtesy by [Doug Robar](https://twitter.com/drobar) who is the official Umbraco Photographer.  Thank you Doug for allowing them to be used #h5yr!
+##Billeder##
+Alle billeder brugt i denne bog er copyrighted og venligst udlånt af [Doug Robar](https://twitter.com/drobar) som er officiel Umbraco-fotograf. Mange tak Doug, fordi har ladet os bruge dine billeder #h5yr!
 
-For even more wonderful pictures by Doug, please visit his [Flickr](https://www.flickr.com/photos/percipientstudios/sets/with/72157605372962113)!
+Hvis du vil se endnu fler af Dougs fantastiske billede, så tag et kig på hans [Flickr](https://www.flickr.com/photos/percipientstudios/sets/with/72157605372962113)!
+
 
 ![4372945716_0cecd1e8c2_o.jpg](assets/4372945716_0cecd1e8c2_o.jpg)
 
->Photo of Doug Robar
+>Billede af Doug Robar
 
 [Next> 01 - Developer Tools](01 - Developer Tools.md)

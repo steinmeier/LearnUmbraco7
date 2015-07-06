@@ -1,55 +1,58 @@
 #Umbraco Community#
-Umbraco has one of the friendliest communities in the known universe.  The best way to find people talking about current Umbraco topics is via Twitter.  Umbraco is also know for their many meetups and festivals held around the world.  Umbraco developers typically refer to themselves as *Umbracians*.
+Umbraco har et af de venligstes comminities i hele universet (i hvert fald det univers vi kender til).
+Den bedste måde at finde folk, der taler om Umbraco på, er via Twitter. Umbraco er også kendt for de mange „meetups” og festivaler der holdes rundt om i verden.
+Umbraco-udviklere omtaler ofte sig selv som *Umbracians*.
 
 ##Our Umbraco##
-The community forums are hosted at http://our.umbraco.org.  You can also find some great packages and official documentation.
+Du kan finde comminity forum’et på http://our.umbraco.org.
+Her kan du også fede fede packages, samt den officelle dokumentation.
 
 ![our](assets/our.png)
 
 ##Umbraco.tv##
-Videos from the core team can be accessed through a subscription at: http://umbraco.tv/
+Videoer fra core team’et kan ses på http://umbraco.tv/
+Vær opmærksom på, at dette kræver et abonnement!
 
 ![umbraco.tv](assets/umbtv.png)
 
 ##Codegarden##
-Codegarden is the main festival that occurs every year in the late Spring.  It usually is hosted in Copenhagen Denmark and attracts around 400 Umbracians every year.  http://codegarden15.com
+Codegarden er den store festival, der afholdes hvert år i sen-foråret. Det foregår i København, og tiltrækker godt 400 Ubracians hvert år. http://codegarden15.com
 
 ![codegarden](assets/codegarden.png)
 
 ##uWestFest##
-uWestFest is relatively new and is the North American festival held in late Winter.  http://www.uwestfest.com/
+uWestFest er en relativ ny festival. Det er den amerikanske festival, der holdes i foråret. 
+http://www.uwestfest.com/
 
 ![uwestfest](assets/uwestfest.png)
 
 ##UK Fest##
-UK Fest is the United Kingdom festival typically held in the Fall.
+UK Fest er Englands festival. Den afholdes typisk om efteråret.
 
 ![15101926851_bd53bbf155_o.jpg](assets/15101926851_bd53bbf155_o.jpg)
->Photo by: Doug Robar
+>Foto: Doug Robar
 
 ##uHangout##
-uHangout is a weekly recurring webcast hosted by Warren Buckley.
+uHangout er en ugentlig webcast, med Warren Buckley som vært.
 
 http://uhangout.co.uk/
 
 ![uhangout](assets/uhangout.png)
 
 ##24days.in##
-
-An annual community contributed blog about Umbraco tips and tricks.
+En årlig „julekalender”-blog om Umbraco. Fyldt med tips og tricks, der alle kommer fra verdens venligste community.
 
 http://24days.in/umbraco
 
-To contribute please tweet to: http://twitter.com/greystate
+Hvis du ønsker at bidrage, så tweet http://twitter.com/greystate
 
 ##Skrift.io##
-
-A weekly Umbraco magazine: http://skrift.io
+Et månedligt Umbraco-magasin: http://skrift.io 
 
 ![skrift](assets/skrift.png)
 
 ##nibble.be
+En ret populær blog af Tim Geysens, der er en del af Core team.
+Her er der altid masser af gode sager: http://www.nibble.be/
 
-A very popular blog by Tim Geysens from the core team.  This is always full of good stuff: http://www.nibble.be/
-
-[<Back 02 - History](02 - History.md)
+[<Tilbage 02 - History](02 - History.md)

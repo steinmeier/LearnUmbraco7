@@ -1,23 +1,25 @@
-#The Umbraco Backoffice#
+#Umbracos Backoffice#
 
 ![8656703331_63be55c15c_o.jpg](assets/8656703331_63be55c15c_o.jpg)
->Photo by: Doug Robar
+>Foto: Doug Robar
 
-The Umbraco backoffice is where the content editors and developers will spend a large part of their time.  The backoffice is broken into several sections:
+Umbracos backoffice er der, hvor redaktører og udviklere bruger en hel del af deres tid.
+Backoffice er delt ind i flere sektioner:
 
-* [Content](01 - Content Section.md)
-* [Media](02 - Media Section.md)
-* [Settings](03 - Settings Section.md)
-* [Developer](04 - Developer Section.md)
-* [Users](05 - Users Section.md)
+* [Indhold](01 - Content Section.md)
+* [Mediearkiv](02 - Media Section.md)
+* [Indstillinger](03 - Settings Section.md)
+* [udvikler](04 - Developer Section.md)
+* [Brugere](05 - Users Section.md)
 * [Members](06 - Members Section.md)
-* [Forms (New for Umbraco 7)](07 - Forms Section.md)
-* And even custom sections can be created like Umbraco Bookshelf
+* [Forms (Nyt i Umbraco 7)](07 - Forms Section.md)
+* Man kan endda lave custom sektioner, som fx. Umbraco Bookshelf
 
-Version 7 has brought a very clean responsive interface powered by AngularJs.  Umbraco sections (called `applications` when developing new sections) consist of a node tree on the left, a contextual panel on the right and dashboards available at the root of each sectoin.
+Version 7 har fået et meget clean responsive interface, drevet af AngularJs. Umbraco-sektioner (de hedder „applikationer” når man bygger nye sektioner) indeholder et node tree i vestre side, et indholdsbestemt panel i højre side. Dashboard i roden af hver  sektion.
 
 ![Backoffice](assets/backoffice.png)
 
->NOTE: Typically editors are only given access to the `Content` and `Media` section while developers will need access to everything.
+>NOTE: Normalt har redaktører kun adgang til „Content” og „Mediasektion”, mens udviklere skal have adgang til alt.
 
-[Next> 01 - Content Section](01 - Content Section.md)
+
+[Næste> 01 - Content Section](01 - Content Section.md)

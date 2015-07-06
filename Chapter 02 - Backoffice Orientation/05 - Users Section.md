@@ -1,29 +1,32 @@
-#Users Section#
+#Brugere#
 
-The users section is where you'll manage users who are meant to log into the Umbraco backoffice.  These are different types of users from `members` which are persons who login to the frontend.
+Bruger-sektionen er hvor man holder styr på de brugere, der skal kunne logge ind i Umbracos backoffice.
+Ikke at forveksle med „Medlemmer”, der er personer med login til frontend. 
 
 ![users.png](assets/users.png)
 
-##User Management##
+##Bruger-management##
 
-Add, modify or disable users by selecting `Users` in the tree.  Note that you cannot delete users due to audit trail reasons.
+Tilføj, redigér eller deaktivér brugere ved at vælge „Brugere” i  menu-træet.
+Vær opmærksom på at du, af revisionsmæssige årsager, ikke kan slette brugere.
 
-Each user will need at a minimum:
+Hver enkelt bruger kræver som minimum:
 
-* Username
+* Brugernavn
 * Login
-* Content Start Node
-* Media Start Node
-* Sections
+* Start-node til indhold
+* Start-node til medie-sektion
+* Sektioner
 
-This screen determines which sections are available to users.  Most non-admins will only need access to `Content` and `Media`.
+Denne skærm bestemmer, hvilke sektioner der er tilgængelig for brugerne.
+Størstedelen af „ikke-admin brugere” har kun brug for adgang til „Indhold” samt „Medie-sektionen”.
 
-##User Types##
-Here you can setup default context menu load outs that can then be selected in the `Users` screen per user.
+##Bruger-typer##
+Her kan du opsætte standard „context menu load outs” som så kan vælges til „Brugere”.
 
-##User Permissions##
-Restrict access on a per node/user basis.
+##Brugerrettigheder##
+Begræns adgangen på en „per node/user” baggrund.
 
-[<Back 04 - Developer Section](04 - Developer Section.md)
+[<Tilbage 04 - Developer Section](04 - Developer Section.md)
 
-[Next> 06 - Members Section](06 - Members Section.md)
+[Næste> 06 - Members Section](06 - Members Section.md)
