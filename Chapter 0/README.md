@@ -28,7 +28,7 @@ Du kan følge ham på twitter her: https://twitter.com/alexlindgren og på hans 
 ##Billeder##
 Alle billeder brugt i denne bog er copyrighted og venligst udlånt af [Doug Robar](https://twitter.com/drobar) som er officiel Umbraco-fotograf. Mange tak Doug, fordi har ladet os bruge dine billeder #h5yr!
 
-Hvis du vil se endnu fler af Dougs fantastiske billede, så tag et kig på hans [Flickr](https://www.flickr.com/photos/percipientstudios/sets/with/72157605372962113)!
+Hvis du vil se endnu flere af Dougs fantastiske billede, så tag et kig på hans [Flickr](https://www.flickr.com/photos/percipientstudios/sets/with/72157605372962113)!
 
 
 ![4372945716_0cecd1e8c2_o.jpg](assets/4372945716_0cecd1e8c2_o.jpg)
